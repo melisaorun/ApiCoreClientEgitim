@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCoreClientEgitim", "ApiCoreClientEgitim\ApiCoreClientEgitim.csproj", "{4C6BAF01-31C7-4166-AEDF-BD0D7D6CFBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6BAF01-31C7-4166-AEDF-BD0D7D6CFBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6BAF01-31C7-4166-AEDF-BD0D7D6CFBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6BAF01-31C7-4166-AEDF-BD0D7D6CFBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6BAF01-31C7-4166-AEDF-BD0D7D6CFBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D5D5CF-D533-416F-8FC2-9C9D937924B5}
+	EndGlobalSection
+EndGlobal
