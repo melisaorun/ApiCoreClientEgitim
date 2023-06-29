@@ -50,7 +50,7 @@ namespace ApiCoreClientEgitim.Controllers
             var update = _db.Katilimcilar.FirstOrDefault(x => x.KatilimciId == id);
             update.AdSoyad = katilimcilar.AdSoyad;
             update.Telefon = katilimcilar.Telefon;
-            update.Email = katilimcilar.Email;
+            update.Email = katilimcilar.Email; 
             
             _db.SaveChanges();
             return NoContent();
